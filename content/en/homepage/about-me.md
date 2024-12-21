@@ -1,5 +1,7 @@
 ---
-title: "About Me"
+title: "Mon expérience"
+header_menu_title: "Mon expérience"
+navigation_menu_title: "Mon expérience"
 weight: 3
 header_menu: true
 ---
@@ -10,11 +12,16 @@ You would have to .Resouces.GetMatch via custom shortcode.
 ![Jane Doe](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
 -->
 ![Jane Doe](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-See DE language for more examples of image management. There are multiple approaches.
 
-##### Professional Experience
+NB : Je ne suis pas cette personne.
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Des opportunités professionnelles m'ont amené à exercer aux quatre coins du monde, de la forêt amazonienne au blizzard kazakh, en passant par les massifs péruviens et les pupitres de l'université de Guyane.
+
+Elles ont participé à faire l'expert que je suis aujourd'hui, et je saurai choisir précisément qu'en tirer pour l'utiliser dans votre projet.
+
+##### Expérience professionnelle
+
+Beaucoup, mais voici du lorep ipsum qui vous en parlera plus en détail. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
 
 ----
 

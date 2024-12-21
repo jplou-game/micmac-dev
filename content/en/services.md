@@ -12,7 +12,7 @@ Well, let me tell ya!
 
 ---
 
-## Nutrition Coaching
+## Étude de projet
 
 This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
 

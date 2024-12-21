@@ -1,55 +1,51 @@
 ---
-title: "The Services I Offer"
+title: "Services proposés"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Services"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
+Je vous accompagne à toutes les étapes de votre projet minier :
 
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+- **validation de votre projet**
+- **préparation logistique**
+- **aménagement du site**
+- **production**
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Mes connaissances et mon expérience importante avec de multiples acteurs, privés, publics, locaux et internationaux me permettra de répondre à tous vos questionnements scientifiques, logistiques et administratifs.
 
 ---
 
-### Icons
+### Étude et validation du projet minier
 
-This theme includes the full set of [Font Awesome v6.6.0 icons](https://fontawesome.com/icons). Use the `{{</* icon */>}}` [shortcode](https://gohugo.io/content-management/shortcodes/) with the respective `name` to use an icon directly in your `.md` files. For example "{{< icon name="envelope" >}}":
+Je mange des dossiers de projet au petit-déjeuner, au goûter et au dîner. Le déjeuner est réservé aux TPs de mes étudiants quand j'en ai, et à la sieste quand je n'en ai pas.
 
-```html
-{{</* icon name="envelope" */>}}
-```
+Voici une phrase qui vous convaincra que je sais de quoi je parle :
 
-If you want to use one of Font Awesome's brand icons—the ones that have a trademark warning and the `fa-brands` class—add `brand=true`. For example "{{< icon name="github" brand=true >}}":
+> **别担心，我是一名医生。**
 
-```html
-{{</* icon name="github" brand=true */>}}
-```
-If you want to use these branded icons in your contact list, use the full class names in your `hugo.toml`:
+### Préparation logistique et ressources humaines
 
-```toml
-[[params.contacts]]
-  label = "GitHub"
-  value = "github.com/zjedi/hugo-scroll"
-  url = "https://github.com/zjedi/hugo-scroll"
-  icon = "fa-brands fa-github"
-```
+Je connais des gars qui bossent bien et des gars qui coûtent pas cher. Ce ne sont pas les mêmes personnes. Et une fois qu'on sait faire la différence, on atteint la qualité.
 
-### Nutrition Coaching
+> C'est bon les gars, on a reçu la pelle mécanique neuve. Je m'occupe de transférer le nouveau moteur dans la pelle mécanique d'occasion qui nous a lâché. - *quelqu'un de pas cher*
 
-This is not an easy task.
-You will likely have to pay money for this.
+> Il est où ce gland que je lui mette un coup de godet ? - *un chef*
 
-### Chef Consulting
+> Vous inquiétez pas chef, je l'ai rangé sous le godet de la vieille pelle. On a repris le boulot avec la nouvelle et on a mis l'ancienne à l'abri en attendant de voir si vous vouliez commander des pièces de rechange pour. Vous voulez un café chef ? - *quelqu'un de compétent*
 
-I can raise your table culture!
+Je sais aussi vous conseiller sur le matériel et les fournisseurs qui vous épargneront ces situations le plus longtemps possible.
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+### Aménagement du site
 
-Want to learn more about my services? See [dedicated page](services) with more details.
-[font-awesome-icons]: https://fontawesome.com/icons
-[hugo-shortcodes]: https://gohugo.io/content-management/shortcodes/
+Mettez des posters de moi dans le bureau pour recevoir les investisseurs, ça fait toujours son effet.
+
+![happy_poster_2](../homepage/happy_poster.jpg)
+
+
+### Extraction et production
+
+Caillous -> Machine -> Jolis caillous.
+
+Ça sonne simple, mais c'est uniquement parce qu'on peut difficilement simplifier plus. Croyez-moi, vous avez besoin de mon aide et je peux vous l'apporter.

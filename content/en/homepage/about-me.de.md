@@ -1,8 +1,8 @@
----
+<!-- ---
 title: "Über mich (shared folder)"
 weight: 3
 header_menu: true
----
+--- -->
 
 This demonstates localized variants `about-me.de.md` placed along the primary language content, such as `content/en`. Both localisation approaches (separate folder, suffixes in the same folder) can be used and mixed.
 

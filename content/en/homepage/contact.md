@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-weight: 4
+weight: 10
 header_menu: true
 ---
 
 {{<contact_list>}}
 
-Let us get in touch!
+N'hésitez pas à me contacter pour toute demande de devis ou d'informations.

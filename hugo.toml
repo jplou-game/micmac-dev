@@ -1,15 +1,15 @@
-baseURL = "https://example.com"
+baseURL = "https://www.micmac-consulting.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "MICMAC CONSULTING"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -27,18 +27,19 @@ enableEmoji = true
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
+    # in damn assets/
     images = ["images/cover-image.jpg"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
     # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
     # see _index.md header_headline and header_subheadline
-    title_guard = false
+    title_guard = true
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "MICMAC CONSULTING - Mine and Craft"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Nutrition Coach & Chef Consultant"
@@ -52,7 +53,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "©MICMAC CONSULTING"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -76,25 +77,31 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "micmac, macarit, mine, minier, projet, consulting, guyane, guiana, géologie, geologist"
 
-    [[params.contacts]]
-        label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
-        icon = "fa fa-phone"
+    # [[params.contacts]]
+    #     label = "phone"
+    #     value = "+594 694 452721"
+    #     url = "tel:+594 694 452721"
+    #     icon = "fa fa-phone"
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "contact@micmac-consulting.com"
+        url = "mailto:contact@micmac-consulting.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
-        label = "GitHub"
-        value = "github.com/zjedi/hugo-scroll"
-        url = "https://github.com/zjedi/hugo-scroll"
-        icon = "fa-brands fa-github"
+        label = "LinkedIn"
+        value = "LinkedIn - Michel Macarit"
+        url = "https://www.linkedin.com/in/michel-macarit-2a13a921/"
+        icon = "fa-brands fa-linkedin"
+
+    # [[params.contacts]]
+    #     label = "GitHub"
+    #     value = "github.com/zjedi/hugo-scroll"
+    #     url = "https://github.com/zjedi/hugo-scroll"
+    #     icon = "fa-brands fa-github"
 
     # Add additional contacts here!
     # [[params.contacts]]
@@ -105,13 +112,12 @@ enableEmoji = true
 
 # Define additional languages
 [languages]
-  [languages.en]
+  [languages.fr]
     weight = 10
-    languageName = "English"
+    languageName = "🇨🇵​ FR"
     contentDir = "content/en"
 
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
+  [languages.en]
     weight = 20
     contentDir = "content/de"
-    languageName = "Deutsch"
+    languageName = "🇬🇧​ EN"

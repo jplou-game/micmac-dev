@@ -1,14 +1,17 @@
 ---
-title: "Welcome"
+title: "Bienvenue"
 weight: 1
 ---
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page.
-The landing screen is meant to be visually striking.
+`MICMAC CONSULTING` est le mariage de l'expertise d'un Docteur en Géologie et de l'expérience de dizaines d'années dans le domaine minier.
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
+![arbre_a_or](images/arbre_a_or.jpg)
 
-> The belly rules the mind. --- spanish proverb
+> D'un coup d'oeil je peux vous dire que cette cerise n'est pas une pomme et que le caillou sur lequel vous marchez contient 8% de fer et 0.12% d'or. - *Michel Macarit*
 
-By the way this welcome section won't show in the cover menu.
+
+Aujourd'hui, j'accompagne des projets d'extraction de minerai sur le plateau guyanais et en Amérique du sud.
+
+Avec moi, votre site d'extraction sera impeccable, réglementaire et durable. C'est mieux pour la planète, et pour vos affaires.
+
+> Là où il y a de l'or, il y a un local pour t'empêcher de le récupérer. --- *proverbe canadien*
