@@ -26,18 +26,6 @@
                 href="http://jplou-game.github.io/micmac-dev/license/"
                 />
   </url><url>
-    <loc>http://jplou-game.github.io/micmac-dev/services/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jplou-game.github.io/micmac-dev/en/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jplou-game.github.io/micmac-dev/services/"
-                />
-  </url><url>
     <loc>http://jplou-game.github.io/micmac-dev/legal/</loc>
     <xhtml:link
                 rel="alternate"

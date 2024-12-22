@@ -19,7 +19,11 @@ title = "MICMAC CONSULTING"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
+[markup.goldmark.renderHooks.image]
+enableDefault = true
 
+[markup.goldmark.renderHooks.link]
+enableDefault = true
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]

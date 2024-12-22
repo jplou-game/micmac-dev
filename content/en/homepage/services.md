@@ -41,7 +41,7 @@ Je sais aussi vous conseiller sur le matériel et les fournisseurs qui vous épa
 
 Mettez des posters de moi dans le bureau pour recevoir les investisseurs, ça fait toujours son effet.
 
-![happy_poster_2](../homepage/happy_poster.jpg)
+![happy_poster_2](/images/happy_poster.jpg)
 
 
 ### Extraction et production
