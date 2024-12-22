@@ -39,10 +39,10 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "MICMAC CONSULTING - Mine and Craft"
+    title = "MICMAC CONSULTING - Projets Miniers"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Consultant en projets miniers"
 
     # Show a menu of languages available
     language_menu = true
