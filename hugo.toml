@@ -1,4 +1,6 @@
-baseURL = "https://www.micmac-consulting.com"
+# A CHANGER POUR LE DEPLOYMENT
+baseURL = "http://jplou-game.github.io/micmac-dev/"
+publishDir = "docs"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -16,6 +18,8 @@ title = "MICMAC CONSULTING"
 
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
+
+
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
